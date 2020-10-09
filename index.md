@@ -72,7 +72,7 @@
 
 一系列的加载后,最后停在这里:
 
-![image-20200826160043174](https://i.loli.net/2020/10/09/6J5PANhztkgHqIS.png)
+![image-20200826160043174](https://i.loli.net/2020/10/09/qAS1KWeNruoDygw.png)
 
 
 
