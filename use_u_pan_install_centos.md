@@ -14,7 +14,7 @@
 
 
 
-![image-20200826151219553](use_u_pan_install_centos.assets/image-20200826151219553.png)
+![image-20200826151219553](https://i.loli.net/2020/10/09/cOh7qMaNv5LFUZ4.png)
 
 
 
@@ -32,7 +32,7 @@
 
 使用软碟通打开iso镜像
 
-![image-20200826152232212](use_u_pan_install_centos.assets/image-20200826152232212.png)
+![image-20200826152232212](https://i.loli.net/2020/10/09/EpRUewd1hoKCrxg.png)
 
 
 
@@ -40,19 +40,19 @@
 
 点击启动,选择写入硬盘镜像
 
-![2020-08-26 15_24_18-Window](use_u_pan_install_centos.assets/2020-08-26 15_24_18-Window.png)
+![2020-08-26 15_24_18-Window](https://i.loli.net/2020/10/09/6H4DSUkFbj1BTAG.png)
 
 
 
-![image-20200826152705919](use_u_pan_install_centos.assets/image-20200826152705919.png)
+![image-20200826152705919](https://i.loli.net/2020/10/09/UBmk83uXJsznVKe.png)
 
 
 
-![image-20200826152802478](use_u_pan_install_centos.assets/image-20200826152802478.png)
+![image-20200826152802478](https://i.loli.net/2020/10/09/RF6vuPkKy7DzNm4.png)
 
 
 
-![image-20200826153107898](use_u_pan_install_centos.assets/image-20200826153107898.png)
+![image-20200826153107898](https://i.loli.net/2020/10/09/m9GceCAPvQjfhLs.png)
 
 
 
@@ -64,7 +64,7 @@
 
 ### 3.2 进入u盘引导后,选择install centos7
 
-![image-20200826161032171](use_u_pan_install_centos.assets/image-20200826161032171.png)
+![image-20200826161032171](https://i.loli.net/2020/10/09/PzYSJQEu6rtOdaV.png)
 
 
 
@@ -72,7 +72,7 @@
 
 一系列的加载后,最后停在这里:
 
-![image-20200826160043174](use_u_pan_install_centos.assets/image-20200826160043174.png)
+![image-20200826160043174](https://i.loli.net/2020/10/09/6J5PANhztkgHqIS.png)
 
 
 
@@ -80,7 +80,7 @@
 
 关机,拔掉u盘,插会电脑,查看到u盘名称为:CentOS 7 x8
 
-![image-20200826155631460](use_u_pan_install_centos.assets/image-20200826155631460.png)
+![image-20200826155631460](https://i.loli.net/2020/10/09/6J5PANhztkgHqIS.png)
 
 
 
@@ -88,13 +88,13 @@
 
 将下图标红的几个地方删除后,保存.
 
-![image-20200826155341112](use_u_pan_install_centos.assets/image-20200826155341112.png)
+![image-20200826155341112](https://i.loli.net/2020/10/09/tJGOcxTaIgAEp1C.png)
 
 
 
 修改后
 
-![image-20200826155551615](use_u_pan_install_centos.assets/image-20200826155551615.png)
+![image-20200826155551615](https://i.loli.net/2020/10/09/yvxRd4tEM7nBmbC.png)
 
 
 
